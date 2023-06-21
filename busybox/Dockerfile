@@ -1,1 +1,1 @@
-From busybox:latest
+From docker.io/busybox::1.36.1
